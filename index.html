@@ -6,6 +6,7 @@ layout: default
   <div class="container">
     <div class="post-list">
       <div class="posts">
+        {% assign posts = site.posts %}
         {% for post in paginator.posts %}
           <a href="{{ post.url }}" class="post-summary">
             <div class="post-date">

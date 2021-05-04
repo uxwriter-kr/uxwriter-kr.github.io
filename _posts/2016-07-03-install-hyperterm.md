@@ -17,7 +17,7 @@ publish: true
 
 ## 테마 설정하기
 
-*테마를 설정하기에 앞서 Sublime Text가 설치되어있지 않다면 [아래 주석](http://yeun.github.io/2016/07/02/install-hyperterm.html#fn:install_sublime)의 글을 먼저 읽고, 설치 후 진행하길 바란다.*
+*테마를 설정하기에 앞서 Sublime Text가 설치되어있지 않다면 [아래 주석](http://uxwriter-kr.github.io/2016/07/02/install-hyperterm.html#fn:install_sublime)의 글을 먼저 읽고, 설치 후 진행하길 바란다.*
 
 1. HyperTerm을 실행한다.
    <img src="/images/2016-07-03/hyperterm.png" style="width: 652px;">
