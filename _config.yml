@@ -1,1 +1,9 @@
-theme: jekyll-theme-architect
+highlighter: rouge
+paginate: 20
+paginate_path: "/page/page:num/"
+markdown: kramdown
+host: 0.0.0.0
+gems: [jekyll-paginate]
+home_url: "https://uxwriter-kr.github.io"
+representing_image: ""
+future: true

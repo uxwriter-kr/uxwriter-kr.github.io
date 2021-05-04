@@ -1,0 +1,46 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import '../_sass/open-color';
+@import '../_sass/variables';
+@import '../_sass/mixins';
+@import '../_sass/basecoat';
+@import '../_sass/grid';
+@import '../_sass/type';
+@import '../_sass/code';
+@import '../_sass/navbar';
+@import '../_sass/syntax';
+@import '../_sass/post-list';
+@import '../_sass/post';
+
+@font-face {
+  font-family: 'open-arrow';
+  src: url('../asset/fonts/OpenArrow-Regular.eot') format('embedded-opentype'),
+       url('../asset/fonts/OpenArrow-Regular.woff2') format('woff2'),
+       url('../asset/fonts/OpenArrow-Regular.woff') format('woff'),
+       url('../asset/fonts/OpenArrow-Regular.otf') format('opentype'),
+       url('../asset/fonts/OpenArrow-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+2190-21ff;
+}
+// Adhoc post style
+@import '../_sass/160925';
+
+
+.hide {
+  display: none !important;
+}
+
+.divider {
+  margin: 0 auto;
+  display: block;
+  color: $hr-color;
+  display: inline-block;
+  margin: 0 -6px;
+  height: 0.5em;
+  vertical-align: super;
+}
+
+

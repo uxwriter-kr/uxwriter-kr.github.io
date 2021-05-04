@@ -1,0 +1,90 @@
+
+// Post list
+//=============================================================
+
+.post-list {
+  padding: 0 3%;
+
+  @media (max-width: 543px) {
+    padding: 4px 6%;
+  }
+}
+
+.posts {
+  margin: 0 auto;
+}
+
+// Post card - Desktop style
+.post-summary {
+  display: block;
+  height: auto;
+  color: $hr-color; // for transition animation
+  margin: auto 9%;
+  padding: 10% 0;
+  overflow: auto;
+  border-top: 0.5px solid $hr-color;
+
+  &:first-child {
+    border-top: none;
+  }
+
+  &:hover {
+    margin: auto 0;
+    padding: 10% 9%;
+    background-color: $bg-color;
+    border-color: transparent;
+    border-radius: 6px;
+
+    + .post-summary {
+      border-color: transparent;
+    }
+  }
+}
+
+// Post card - Mobile style
+@media (max-width: 543px) {
+  .post-summary {
+    margin: 0;
+    padding: 6% 0;
+    background-color: $oc-white;
+
+    .post-title {
+      transition: color 0.2s ease-out;
+    }
+
+    &:hover {
+      padding: 6% 0;
+      background-color: $oc-white;
+      border-radius: 0;
+
+        border-color: $hr-color;
+      .post-title {
+        color: $oc-teal-5;
+      }
+
+      + .post-summary {
+        border-color: $hr-color;
+      }
+    }
+  }
+}
+
+.post-date {
+  @include date-style(5px, 16px, 14px);
+}
+
+.post-title {
+  @include post-title(42px, 24px);
+}
+
+.description {
+  width: 100%;
+  margin-bottom: 0;
+  font-size: 20px;
+  line-height: 1.5;
+  color: $text-gray-color;
+
+  @media (max-width: 543px) {
+    font-size: 15px;
+  }
+}
