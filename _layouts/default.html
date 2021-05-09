@@ -74,8 +74,9 @@
     <nav class="navbar">
       <div class="navbar-container">
         <a href="/" class="blog-title">
-          Heeyeun
+          Kryeong
         </a>
+        
         <div class="navbar-menus">
           {% comment %}
           <a href="/about.html" class="{% if page.url == '/about.html' %}
@@ -83,14 +84,14 @@
               {% endif %} navbar-menu menu-about">
             About
           </a>
-          {% endcomment %}
           <a href="/" class="{% if page.url != '/about.html' %}
               active
               {% endif %} navbar-menu menu-blog">
-            Blog
+            Blog -> About
           </a>
-          <a href="https://dribbble.com/heeyeun" target="_blank" class="navbar-menu menu-dribbble">
-            Dribbble
+          {% endcomment %}
+          <a href="https://brunch.co.kr/@thinkaboutlove" target="_blank" class="navbar-menu menu-dribbble">
+            Brunch
           </a>
         </div>
       </div>
