@@ -29,7 +29,7 @@ publish: true
 손을 휘적거리며 꿈에서 깨
 너가 떠나고 난 입맛이 없어졌어
 너가 떠나고 커피의 맛을 알았어
-<너가 떠나고>, 마인드유
+[너가 떠나고], 마인드유
 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
