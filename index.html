@@ -12,9 +12,14 @@ layout: default
             <div class="post-date">
               {{ post.date | date_to_string }}
             </div>
+            <div style="width: 500px;height: 500px;overflow: hidden;">
+              <img src="{{ post.img }}">
+            </div>
+            <div style="margin-top: 5px"> 
             <h3 class="post-title">
               {{ post.title }}
             </h3>
+            </div>  
             <div class="post-info description">
               {{ post.description }}
             </div>

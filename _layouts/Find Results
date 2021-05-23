@@ -1,0 +1,12 @@
+Searching 3167 files for "
+.navbar-menus a.navbar-menu {"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/css/styles.css:
+   91  
+   92  .navbar-menus { display: inline-block; float: right; font-size: 18px; }
+   93: 
+   94: .navbar-menus a.navbar-menu { padding: 23px 20px 26px; color: #343a40; line-height: 70px; text-transform: capitalize; font-weight: 600; }
+   95  
+   96  .navbar-menus a.navbar-menu.menu-about:hover, .navbar-menus a.navbar-menu.menu-about:focus, .navbar-menus a.navbar-menu.menu-about.active { color: #ff922b; }
+
+1 match in 1 file

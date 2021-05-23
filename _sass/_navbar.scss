@@ -32,7 +32,7 @@
   font-size: 20px;
   color: $heading-color;
   line-height: $navbar-height;
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-weight: 600;
 
   @media (max-width: 543px) {
@@ -66,8 +66,8 @@
       color: $oc-teal-5;
     }
 
-    &.menu-dribbble:hover {
-      color: $oc-pink-5;
+    &.menu-brunch:hover {
+      color: $oc-lime-5;
     }
 
     @media (max-width: 543px) {
