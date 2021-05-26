@@ -2,7 +2,7 @@
 layout: entry
 title: 시간을 멈추는 사람들
 img: /images/2021-04-29/1.jpeg
-description: 왠지 올해 연말의 주말들은 모두 행복하게 보낼 것 같아서 기록을 해두고 싶다. 혼자 보내는 주말들. 
+description: 여기 사람들과 만나면 마치 다른 시공간에 온 듯한 기분이 든다. 그들은 시간을 멈추는, 아니 거슬러 가는 사람 같다.
 publish: true
 ---
 <img src="/images/2021-04-29/1.jpeg">
