@@ -1,12 +1,588 @@
-Searching 3167 files for "
-.navbar-menus a.navbar-menu {"
+Searching 3209 files for "Heeyeun"
 
-/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/css/styles.css:
-   91  
-   92  .navbar-menus { display: inline-block; float: right; font-size: 18px; }
-   93: 
-   94: .navbar-menus a.navbar-menu { padding: 23px 20px 26px; color: #343a40; line-height: 70px; text-transform: capitalize; font-weight: 600; }
-   95  
-   96  .navbar-menus a.navbar-menu.menu-about:hover, .navbar-menus a.navbar-menu.menu-about:focus, .navbar-menus a.navbar-menu.menu-about.active { color: #ff922b; }
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/about.html:
+    4  <div class="container">
+    5    <div class="about">
+    6:     <h1>정희연 Jeong Heeyeun</h1>
+    7  
+    8      <h2>contacts</h2>
+    9      <ul>
+   10        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   11:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   12:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   13        <li><a href="https://github.com/yeun">github</a></li>
+   14:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+   15      </ul>
+   16  
 
-1 match in 1 file
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_layouts/default.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun{% if page.title %} | {{ page.title }}{% endif %}">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io{% if page.url %}{{ page.url }}{% endif %}">
+   26:     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Product Designer Heeyeun's blog{% endif %}">
+   27      <meta name="twitter:image" content="https://uxwriter-kr.github.io/images/twitter-image.jpg">
+   28      {% if page.url == '/' %}
+   29:     <meta property="og:title" content="Heeyeun" />
+   30      {% endif %}
+   31      <meta property="og:type" content="website" />
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/about.html">
+   26:     <meta name="twitter:description" content="Product Designer Heeyeun's blog">
+   27      <meta name="twitter:image" content="https://uxwriter-kr.github.io/images/twitter-image.jpg">
+   28      
+   ..
+   89      <div class="container">
+   90    <div class="about">
+   91:     <h1>정희연 Jeong Heeyeun</h1>
+   92  
+   93      <h2>contacts</h2>
+   94      <ul>
+   95        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   96:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   97:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   98        <li><a href="https://github.com/yeun">github</a></li>
+   99:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+  100      </ul>
+  101  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/">
+   26:     <meta name="twitter:description" content="Product Designer Heeyeun's blog">
+   27      <meta name="twitter:image" content="https://uxwriter-kr.github.io/images/twitter-image.jpg">
+   28      
+   29:     <meta property="og:title" content="Heeyeun" />
+   30      
+   31      <meta property="og:type" content="website" />
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 2020 연말의 주말들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/11/28/yearendweekends.html">
+   26      <meta name="twitter:description" content="왠지 올해 연말의 주말들은 모두 행복하게 보낼 것 같아서 기록을 해두고 싶다. 혼자 보내는 주말들.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 진지하게 만나고 싶은 사람">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/12/07/idol.html">
+   26      <meta name="twitter:description" content="살다보면 그런 관계를 맺고 싶은 사람이 있다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 연주를 할 수 없다면 믹싱이라도">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/02/27/djing.html">
+   26      <meta name="twitter:description" content="처음으로 전혀 생산적이지 않은, 목표 없는 취미가 생겼다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 봄이다! 돗자리를 만들자">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/03/26/picnicmat.html">
+   26      <meta name="twitter:description" content="바느질은 집중력 싸움이다. 몇 시간 동안 허리와 목이 아프고 눈이 침침해지는 것을 견뎌내면서 실이 보이는 곳을 잘 봐야 한다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 시간을 멈추는 사람들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/04/29/timemaker.html">
+   26      <meta name="twitter:description" content="여기 사람들과 만나면 마치 다른 시공간에 온 듯한 기분이 든다. 그들은 시간을 멈추는, 아니 거슬러 가는 사람 같다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+41 matches across 11 files
+
+
+Searching 3210 files for "careerly"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_layouts/default.html:
+   82              Brunch
+   83            </a>
+   84:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   85:             careerly
+   86            </a>
+   87  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   82              Brunch
+   83            </a>
+   84:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   85:             careerly
+   86            </a>
+   87  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+16 matches across 8 files
+
+
+Searching 3210 files for "careerly"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_layouts/default.html:
+   82              Brunch
+   83            </a>
+   84:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   85:             careerly
+   86            </a>
+   87  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   82              Brunch
+   83            </a>
+   84:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   85:             careerly
+   86            </a>
+   87  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   80              Brunch
+   81            </a>
+   82:           <a href="https://careerly.co.kr/profiles/946" target="_blank" class="navbar-menu menu-brunch">
+   83:             careerly
+   84            </a>
+   85  
+
+16 matches across 8 files
+
+
+Searching 3185 files for "heeyeun"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/about.html:
+    9      <ul>
+   10        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   11:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   12:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   13        <li><a href="https://github.com/yeun">github</a></li>
+   14:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+   15      </ul>
+   16  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_layouts/default.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun{% if page.title %} | {{ page.title }}{% endif %}">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io{% if page.url %}{{ page.url }}{% endif %}">
+   26      <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Kryeong{% endif %}">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/about.html">
+   26      <meta name="twitter:description" content="Kryeong">
+   ..
+   94      <ul>
+   95        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   96:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   97:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   98        <li><a href="https://github.com/yeun">github</a></li>
+   99:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+  100      </ul>
+  101  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/">
+   26      <meta name="twitter:description" content="Kryeong">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 2020 연말의 주말들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/11/28/yearendweekends.html">
+   26      <meta name="twitter:description" content="왠지 올해 연말의 주말들은 모두 행복하게 보낼 것 같아서 기록을 해두고 싶다. 혼자 보내는 주말들.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 진지하게 만나고 싶은 사람">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/12/07/idol.html">
+   26      <meta name="twitter:description" content="살다보면 그런 관계를 맺고 싶은 사람이 있다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 연주를 할 수 없다면 믹싱이라도">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/02/27/djing.html">
+   26      <meta name="twitter:description" content="처음으로 전혀 생산적이지 않은, 목표 없는 취미가 생겼다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 봄이다! 돗자리를 만들자">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/03/26/picnicmat.html">
+   26      <meta name="twitter:description" content="바느질은 집중력 싸움이다. 몇 시간 동안 허리와 목이 아프고 눈이 침침해지는 것을 견뎌내면서 실이 보이는 곳을 잘 봐야 한다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 시간을 멈추는 사람들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/04/29/timemaker.html">
+   26      <meta name="twitter:description" content="여기 사람들과 만나면 마치 다른 시공간에 온 듯한 기분이 든다. 그들은 시간을 거슬러 가는, 아니 멈추는 사람 같다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+34 matches across 11 files
+
+
+Searching 3185 files for "heeyeun"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/about.html:
+    9      <ul>
+   10        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   11:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   12:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   13        <li><a href="https://github.com/yeun">github</a></li>
+   14:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+   15      </ul>
+   16  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_layouts/default.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun{% if page.title %} | {{ page.title }}{% endif %}">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io{% if page.url %}{{ page.url }}{% endif %}">
+   26      <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}Kryeong{% endif %}">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/about.html">
+   26      <meta name="twitter:description" content="Kryeong">
+   ..
+   94      <ul>
+   95        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   96:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   97:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   98        <li><a href="https://github.com/yeun">github</a></li>
+   99:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+  100      </ul>
+  101  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/">
+   26      <meta name="twitter:description" content="Kryeong">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 2020 연말의 주말들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/11/28/yearendweekends.html">
+   26      <meta name="twitter:description" content="왠지 올해 연말의 주말들은 모두 행복하게 보낼 것 같아서 기록을 해두고 싶다. 혼자 보내는 주말들.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 진지하게 만나고 싶은 사람">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/12/07/idol.html">
+   26      <meta name="twitter:description" content="살다보면 그런 관계를 맺고 싶은 사람이 있다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 연주를 할 수 없다면 믹싱이라도">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/02/27/djing.html">
+   26      <meta name="twitter:description" content="처음으로 전혀 생산적이지 않은, 목표 없는 취미가 생겼다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 봄이다! 돗자리를 만들자">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/03/26/picnicmat.html">
+   26      <meta name="twitter:description" content="바느질은 집중력 싸움이다. 몇 시간 동안 허리와 목이 아프고 눈이 침침해지는 것을 견뎌내면서 실이 보이는 곳을 잘 봐야 한다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 시간을 멈추는 사람들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/04/29/timemaker.html">
+   26      <meta name="twitter:description" content="여기 사람들과 만나면 마치 다른 시공간에 온 듯한 기분이 든다. 그들은 시간을 거슬러 가는, 아니 멈추는 사람 같다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+34 matches across 11 files
+
+
+Searching 3185 files for "heeyeun"
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/about.html:
+    9      <ul>
+   10        <li><a href="linakim0102@naver.com">linakim0102@naver.com</a></li>
+   11:       <li><a href="https://brunch.co.kr/@thinkaboutlove">brunch</a></li>
+   12:       <li><a href="https://careerly.co.kr/profiles/946">careerly</a></li>
+   13        <li><a href="https://github.com/yeun">github</a></li>
+   15      </ul>
+   16  
+
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/about.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/about.html">
+   26      <meta name="twitter:description" content="Kryeong">
+   ..
+   94      <ul>
+   95        <li><a href="hyd5012@gmail.com">hyd5012@gmail.com</a></li>
+   96:       <li><a href="https://dribbble.com/heeyeun">dribbble</a></li>
+   97:       <li><a href="https://www.behance.net/heeyeun">behance</a></li>
+   98        <li><a href="https://github.com/yeun">github</a></li>
+   99:       <li><a href="https://twitter.com/_heeyeun">twitter</a></li>
+  100      </ul>
+  101  
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/index.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/">
+   26      <meta name="twitter:description" content="Kryeong">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/11/28/yearendweekends.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 2020 연말의 주말들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/11/28/yearendweekends.html">
+   26      <meta name="twitter:description" content="왠지 올해 연말의 주말들은 모두 행복하게 보낼 것 같아서 기록을 해두고 싶다. 혼자 보내는 주말들.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2020/12/07/idol.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 진지하게 만나고 싶은 사람">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2020/12/07/idol.html">
+   26      <meta name="twitter:description" content="살다보면 그런 관계를 맺고 싶은 사람이 있다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/02/27/djing.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 연주를 할 수 없다면 믹싱이라도">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/02/27/djing.html">
+   26      <meta name="twitter:description" content="처음으로 전혀 생산적이지 않은, 목표 없는 취미가 생겼다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/03/26/picnicmat.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 봄이다! 돗자리를 만들자">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/03/26/picnicmat.html">
+   26      <meta name="twitter:description" content="바느질은 집중력 싸움이다. 몇 시간 동안 허리와 목이 아프고 눈이 침침해지는 것을 견뎌내면서 실이 보이는 곳을 잘 봐야 한다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/2021/04/29/timemaker.html:
+   19      <meta name="application-name" content="Diary"/>
+   20      <meta name="msapplication-TileColor" content="#FFFFFF" />
+   21:     <meta name="twitter:creator" content="@_heeyeun" />
+   22      <meta name="twitter:card" content="summary">
+   23:     <meta name="twitter:site" content="@_heeyeun">
+   24:     <meta name="twitter:title" content="Heeyeun | 시간을 멈추는 사람들">
+   25      <meta name="twitter:url" content="https://uxwriter-kr.github.io/2021/04/29/timemaker.html">
+   26      <meta name="twitter:description" content="여기 사람들과 만나면 마치 다른 시공간에 온 듯한 기분이 든다. 그들은 시간을 거슬러 가는, 아니 멈추는 사람 같다.">
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/_site/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+/Users/kryeong/Documents/GitHub/uxwriter-kr.github.io/asset/fonts/OpenArrow-Regular.otf:
+    <binary>
+
+34 matches across 11 files
